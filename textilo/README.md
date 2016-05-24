@@ -28,7 +28,7 @@ free hardware electronic textile platform ( based on NE555 ) -- All code in GPLv
 
 ### finished textilo
 
-<img src=/pictures/testrun.Textilo.DataPaulette.July/IMG_0860.JPG>
+<img src=/pictures/testrun.Textilo.DataPaulette.July/IMG_0860.JPG width=400>
 
 ## How textilo works ?
 
