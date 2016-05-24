@@ -3,7 +3,7 @@ free hardware electronic textile platform ( based on NE555 ) -- All code in GPLv
 
 ## 10 steps to assemble a textilo soft electronic board
 
-* 1. Locate ( https://github.com/jeanbaptiste/textilo/blob/master/README.md ) , Read in your language & Understand this tutorial :)
+* 1. Locate ( https://github.com/WhiteDileckNoise/hardware/blob/master/textilo-master/README.md ) , Read in your language & Understand this tutorial :)
 * 2. Order the components 
 	* 5x5 cm Flectron conductive textile http://www.lessemf.com/1212.pdf (Thickness: 0.08mm (3 mil)- Weight: 80 g/m² (about 35% Copper)- Surface Resistivity: 0.05 Ohm/sq. )
 	* 5 x 5 Neoprene textile
@@ -14,11 +14,11 @@ free hardware electronic textile platform ( based on NE555 ) -- All code in GPLv
 	* 100 Ohms resistance 
 	* NE555 timer IC in DIP (dual inline package)
 * 3. Cut a 5 cm neoprene disc (lasercut it or use a punch or scissors)
-* 4. With a CNC machine (plotter, lasercutter) cut the Flectron circuit after sticking paper tape to it. Here is the source code for the cut https://github.com/jeanbaptiste/textilo/blob/master/schematics/textiloBIG.svg . Please credit accordingly, remix & share. 
+* 4. With a CNC machine (plotter, lasercutter) cut the Flectron circuit after sticking paper tape to it. Here is the source code for the cut https://github.com/WhiteDileckNoise/hardware/blob/master/textilo-master/schematics/textiloBIG.svg . Please credit accordingly, remix & share. 
 * 5. Once the circuit is cut, apply mild adhesive before removing it from the machine
 * 6. Remove unwanted parts of the circuit (intermediary traces) with tweezers
 * 7. Place the circuit on the neoprene, remove mild adhesive and iron it
-* 8. Solder the 4 components (555 IC, 100 ohms resistance, 10 & 100 microfarads capacitors) according to the schematics at the bottom of this page (available here as well https://github.com/jeanbaptiste/textilo/blob/master/schematics/textiloBIG.png  )
+* 8. Solder the 4 components (555 IC, 100 ohms resistance, 10 & 100 microfarads capacitors) according to the schematics at the bottom of this page (available here as well https://github.com/WhiteDileckNoise/hardware/blob/master/textilo-master/schematics/textiloBIG.png  )
 * 9. Test by placing a 3v to 15v battery on the PLUS & round pad underneath it, THEN a resistive sensor on the two upper pads (INPUT) and THEN an actuator (8 ohm speaker for instance) on the two lower pads (OUTPUT).
 * 10. Connect any sensors and outputs, share your creations & improve world karma ^^
 
@@ -60,6 +60,6 @@ Recent theories insist on how we deeply *learn by sharing* . Documentation is th
 
 ### do you organize events related with textilo ? 
 
-The first textilo event happened at DataPaulette www.datapaulette.org textile hackerspace in Paris in July 2015. Textilo will then be part of the Etextile Summer Camp (Swatchbook entry) http://etextile-summercamp.org/  and Pa-F www.pa-f.net philosophy week workshop on hands-on metaphysics.
+The first textilo event happened at DataPaulette www.datapaulette.org textile hackerspace in Paris in July 2015. Textilo will then be part of the Etextile Summer Camp (Swatchbook entry) http://etextile-summercamp.org/swatch-exchange/textilo/  and Pa-F www.pa-f.net philosophy week workshop on hands-on metaphysics.
 
 
