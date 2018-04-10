@@ -4,6 +4,7 @@ The first interation of this new version have been produced for a [workshop](htt
 <img src=img_video/V2.1.png width=400>
 
 A second version have been try during the camp
+
 <img src=img_video/V2.2.png width=400>
 
 To finally change the design and elaborate a new version more appropriate for the interdigitation interaction. 
