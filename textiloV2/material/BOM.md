@@ -3,6 +3,7 @@
 CSS 555 SC
 
 *See the datasheet*
+https://github.com/WhiteDileckNoise/hardware/blob/master/textiloV2/material/CSS555C_Spec.pdf
 
 680pf
 
